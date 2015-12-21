@@ -34,6 +34,4 @@ Pull requests are welcome!
 
 TODO:
 
-[] Add support for Swift types that are not representable in Obj-C
-
-[] 
+[ ] Add support for Swift types that are not representable in Obj-C
